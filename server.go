@@ -4,7 +4,8 @@ import (
 	"log"
 	"net"
 
-	"github.com/phacenturion/test_chat/chat"
+	"test_chat/chat"
+
 	"google.golang.org/grpc"
 )
 
